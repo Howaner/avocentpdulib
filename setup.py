@@ -13,6 +13,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Howaner/avocentpdulib",
+    download_url="https://github.com/Howaner/avocentpdulib/archive/refs/tags/v0.0.1.tar.gz",
     packages=find_packages(),
     install_requires=[
         "defusedxml",
